@@ -1,5 +1,10 @@
 # Release History
 
+## 1.3.1 (Unreleased)
+
+### Features Added
+* Added NewListDirectoryPathPager. Fixes [#23852](https://github.com/Azure/azure-sdk-for-go/issues/23852), [#21083](https://github.com/Azure/azure-sdk-for-go/issues/21083), [#18921](https://github.com/Azure/azure-sdk-for-go/issues/18921) 
+
 ## 1.3.0-beta.1 (2024-10-23)
 
 ### Other Changes
